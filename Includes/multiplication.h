@@ -1,0 +1,1 @@
+void multiplication(int a,int b);
