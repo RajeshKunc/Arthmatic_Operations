@@ -3,7 +3,7 @@
 
 int main(void)
 {
-    int a = 10,b = 10;
+    int a = 20,b = 20;
     printf(" a = 10 and b = 10 \n");
     addition(a,b);
     subtraction(a,b);
